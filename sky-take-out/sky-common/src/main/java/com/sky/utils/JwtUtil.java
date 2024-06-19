@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class JwtUtil {
     /**
-     * 生成jwt
+     * 生成JWT
      * 使用Hs256算法, 私匙使用固定秘钥
      *
      * @param secretKey jwt秘钥
