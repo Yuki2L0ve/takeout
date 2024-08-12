@@ -36,9 +36,9 @@ logging:
 
 sky:
   shop:
-    address: 广东省深圳市南山区深圳大学沧海校区
+    address: 
   baidu:
-    ak: FniX1dYX8QT1iYqjotjSgvre3t971v9M
+    ak: 
   jwt:
     # 设置jwt签名加密时使用的秘钥
     admin-secret-key: itcast
